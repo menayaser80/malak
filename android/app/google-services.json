@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "123731327099",
+    "project_id": "malak-stem",
+    "storage_bucket": "malak-stem.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123731327099:android:9d25f2facab5e68b278ade",
+        "android_client_info": {
+          "package_name": "com.example.malak_stem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5SnVBCwb0MuAVU5H73xO8TBWU2pK5Eno"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
